@@ -1,4 +1,4 @@
-### A developer of technology. 
+### An aspiring computer scientist and a developer of technology. 
 ### Technology is a programming of nature. It is a capturing of phenomena and a harnessing of these to human purpose.
 
 - 🔭 I’m currently working on and learning about Digital Twins and Open Web Technologies🌱 
