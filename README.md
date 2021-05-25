@@ -1,7 +1,7 @@
 ### An aspiring computer scientist and a developer of technology. 
 ### Technology is a programming of nature. It is a capturing of phenomena and a harnessing of these to human purpose.
 
-- 🔭 I’m currently working on and learning about Digital Twins and Open Web Technologies🌱 
+- 🔭 I’m currently working on and learning about Data Science and Open Web Technologies🌱 
 - 👯 I’m looking to collaborate on social action the leads to the democratization of technology i.e. The Internet, Software and Hardware. 
 - 💬 Ask me about Technology, Values, and the Shaping of Social Reality
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/ahmad-vegah/) 
