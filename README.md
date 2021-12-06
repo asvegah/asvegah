@@ -2,7 +2,7 @@
 > ### Technology is a programming of nature. It is a capturing of phenomena and a harnessing of these to human purpose.
 ### 💬 Ask me about Technology, Values, and the Shaping of Social Reality. 
 ## 🎆 Current Work 🎆
-![intro](/img/SocialTech.gif)
+[![intro](/img/SocialTech.gif)](https://github.com/devsocialtech)
 ## [Coditor](https://github.com/devcoditor)
 Make the creation and application of software universally available. A tool designed to easily create, collaborate and run software using visual tools with any programming language on any platform using WebAssembly and Code Assistants.
 ## [Simtropolis](https://github.com/simtropolis)
