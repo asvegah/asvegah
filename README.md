@@ -10,4 +10,3 @@ A digital nerve center of collaboration, knowledge management, learning and prod
 ## [Robotory: Factory In a Box (FAIB)](https://github.com/robotory)
 A rapidly deployable, remotely managed, modular manufacturing supply chain network enabled by industrial digital technologies. Using recent advances in 2D Materials, 3D Printing, Manufacturing Technologies and Robotics.
 
-![Projects](/img/SocialTech.png)
